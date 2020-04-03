@@ -1,7 +1,7 @@
-features/node_modules
-fetchjson/node_modules
-maps/node_modules
-sort/node_modules
-stats/node_modules
-server/node_modules
-web/node_modules
+/features/node_modules
+/fetchjson/node_modules
+/maps/node_modules
+/sort/node_modules
+/stats/node_modules
+/server/node_modules
+/web/node_modules
